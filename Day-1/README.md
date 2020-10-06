@@ -9,7 +9,7 @@ JavaScript is a programming language. Just like with human languages, it comes w
 JavaScript started off being a front-end language but can now be used on the backend as well.
 A front end language is just a language that runs within the browser. As in it does not run on a server thousands of miles away but instead runs on your very own computer every time you load a web page!
 
-### JavaScript Frameworks?
+### JavaScript Frameworks
 
 Web frameworks are just a pre-configured system that consists of a bunch of libraries/tools that work together to make web development easier and more effective. You can do more with less if you will. At least that is the idea.
 
