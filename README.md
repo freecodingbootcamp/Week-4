@@ -6,6 +6,8 @@
 
 ### [Day 2](https://github.com/freecodingbootcamp/Week-4/tree/master/Day-2):
 
+- Intro to JavaScript Continued, Conditional statements
+
 ### [Day 3](https://github.com/freecodingbootcamp/Week-4/tree/master/Day-3):
 
 ### [Day 4](https://github.com/freecodingbootcamp/Week-4/tree/master/Day-4):
