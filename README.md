@@ -10,6 +10,8 @@
 
 ### [Day 3](https://github.com/freecodingbootcamp/Week-4/tree/master/Day-3):
 
+- Intro to JavaScript Continued, Arrays, Strings, Loops
+
 ### [Day 4](https://github.com/freecodingbootcamp/Week-4/tree/master/Day-4):
 
 ### [Day 5](https://github.com/freecodingbootcamp/Week-4/tree/master/Day-5):
